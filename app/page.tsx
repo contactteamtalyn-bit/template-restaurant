@@ -14,7 +14,7 @@ export default function Home() {
       <ScrollExpandMedia
         mediaType="image"
         // Photo de couscous / plat signature en médaillon central
-        mediaSrc="https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=1280&auto=format&fit=crop"
+        mediaSrc="https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1280&auto=format&fit=crop"
         // Photo d'intérieur de restaurant chaleureux en fond
         bgImageSrc="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1920&auto=format&fit=crop"
         title="La Maison"
