@@ -8,7 +8,7 @@ import Image from 'next/image'
 // Images Unsplash — restaurants et plats français
 const galleryImages = [
   {
-    src: 'https://images.unsplash.com/photo-1544025162-d76538ef41db?q=80&w=1280&auto=format&fit=crop',
+    src: 'https://images.unsplash.com/photo-1432139509613-5c4255815697?q=80&w=1280&auto=format&fit=crop',
     alt: 'Entrecôte grillée maison',
     span: 'col-span-1 row-span-2', // grande image gauche
   },
