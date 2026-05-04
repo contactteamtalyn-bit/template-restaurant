@@ -120,8 +120,7 @@ export default function HoursContact() {
           {/* Colonne droite : Google Maps embed */}
           <div className="rounded-2xl overflow-hidden border border-border-warm shadow-lg h-[450px]">
             <iframe
-              src="https://maps.google.com/maps?q=61+Rue+Cartier+Bresson,+93500+Pantin&output=embed"
-              width="100%"
+              src="https://maps.google.com/maps?q=61+Rue+Cartier+Bresson,+93500+Pantin&output=embed"              width="100%"
               height="100%"
               style={{ border: 0 }}
               allowFullScreen
