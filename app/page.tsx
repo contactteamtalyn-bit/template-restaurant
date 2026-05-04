@@ -1,4 +1,4 @@
-import ScrollExpandMedia from '@/components/blocks/scroll-expansion-hero'
+·ééééimport ScrollExpandMedia from '@/components/blocks/scroll-expansion-hero'
 import About from '@/components/sections/about'
 import Specialties from '@/components/sections/specialties'
 import Menu from '@/components/sections/menu'
